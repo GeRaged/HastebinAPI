@@ -1,0 +1,5 @@
+# HastebinAPI
+
+### Author
+
+Niklas F.
