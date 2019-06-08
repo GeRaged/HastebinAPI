@@ -11,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 
 public class HastebinAPI {
 
-    private static final JsonParser JSON_PARSER = new JsonParser();
+    private final JsonParser JSON_PARSER = new JsonParser();
 
     public String upload(String content) {
         String result;
